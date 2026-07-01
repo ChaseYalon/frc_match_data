@@ -1,7 +1,7 @@
 # Hi!
 
 This repository contains every FRC match played in the 2022-2026 seasons. The data was scraped from The Blue Alliance (TBA). The script in [getData.py](getData.py) fetches the data and writes it to [matches.json](matches.json).
-
+Data curtosey of Chase Yalon and team 5113
 ## File Format
 
 `matches.json` is a JSON array of match objects. Each object has the following shape:
